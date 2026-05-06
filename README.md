@@ -1,1 +1,1 @@
-My themes for My themes for [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) software.
+My themes for [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) software.
